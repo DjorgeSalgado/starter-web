@@ -13,3 +13,7 @@ Another one
 ## Deployment
 
 This is a simple website project for showing how to use Git and Github together
+
+## Copyright
+
+2014Git.Training.
